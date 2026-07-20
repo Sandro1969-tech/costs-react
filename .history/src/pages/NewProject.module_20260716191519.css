@@ -1,0 +1,68 @@
+.newproject_container {
+  width: 450px;
+  margin: 0 auto;
+  padding: 3em;
+  background-color: #ffffff;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+  border-radius: 12px;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.newproject_container h1 {
+  margin-bottom: 0.5em;
+  font-size: 2em;
+  color: #222;
+}
+
+.newproject_container p {
+  color: #7b7b7b;
+  margin-bottom: 1.5em;
+}
+
+.form_control {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1.5em;
+}
+
+.form_control label {
+  margin-bottom: 0.6em;
+  font-weight: bold;
+  color: #222;
+  font-size: 0.9em;
+}
+
+.form_control input,
+.form_control select {
+  padding: 0.8em;
+  border-radius: 6px;
+  border: 1px solid #dfdfdf;
+  outline: none;
+  transition: 0.3s;
+  background-color: #fafafa;
+}
+
+.form_control input:focus,
+.form_control select:focus {
+  border-color: #ffbb33;
+  background-color: #fff;
+}
+
+.btn {
+  width: 100%;
+  background-color: #222;
+  color: #fff;
+  padding: 0.8em;
+  text-decoration: none;
+  transition: 0.5s;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.btn:hover {
+  color: #ffbb33;
+  background-color: #333;
+}
