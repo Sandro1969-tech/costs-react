@@ -1,0 +1,67 @@
+{
+  "projects": [
+    {
+      "name": "Solux",
+      "budget": "5.000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": "qyU0rC8Z3Dg"
+    },
+    {
+      "name": "Casas Gonçalves",
+      "budget": "25.000",
+      "category": {
+        "id": "1",
+        "name": "Infraestrutura"
+      },
+      "cost": 0,
+      "services": [],
+      "id": "AT56EzmA4fg"
+    },
+    {
+      "name": "Óptica Desirré",
+      "budget": "15.000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": "OxWlzSlVJxk"
+    },
+    {
+      "name": "Padaria Lucélia",
+      "budget": "42.000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": "pkQIJohd_R4"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infraestrutura"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

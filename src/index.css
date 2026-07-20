@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  background-color: #efefef;
+}
+
+html, body, #root {
+  background-color: #efefef;
+  height: 100%;
+}
+
+/* Classes utilitárias para textos coloridos */
+.yellow {
+  color: #ffbb33;
+  background-color: #222;
+  padding: 0 0.2em;
+}
